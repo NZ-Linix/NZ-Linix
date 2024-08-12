@@ -1,16 +1,34 @@
-## Hi there 👋
+## ༼ つ ◕_◕ ༽つ Hey there!
+My name is Linix and I am a Developer (why else should i be on Github..?) Well, here is some Information about me :D
+## (^///^) Information
+```
+Name    -> Linix
+Gender  -> Male
+Country -> Germany
 
-<!--
-**NZ-Linix/NZ-Linix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+(I dont know what i should write here)
+```
+## (┬┬﹏┬┬) Languages
 
-Here are some ideas to get you started:
+Here are the languages i am currently learning or that i know well :D
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+languages = {"I know well": 
+[
+    "Python",
+    "Html & Css",
+    "Lua",
+    "JavaScript"
+], "Languages I am learning": 
+[
+    "Java",
+    "Go",
+    "Rust"
+]
+}
+```
+
+All the languages at "I know well", well, I do know these very good, but of course i am still learning those too
+## \(￣︶￣*\)) The End
+
+Thank you for reading thru my Profile Readme! If you want to add me or message me for collabs or something, discord: linix_red . Bye Bye! (PS: Dont ask me why i said "well" so often!) 

@@ -1,5 +1,6 @@
 ## ༼ つ ◕_◕ ༽つ Hey there!
-My name is Linix and I am a Developer (why else should i be on Github..?) Well, here is some Information about me :D
+My name is Linix and I am a Developer (why else should i be on Github..?) Well, here is some Information about me :D  
+For everyone asking, I am using Apple Devices.
 ## (^///^) Information
 ```
 Name    -> Linix

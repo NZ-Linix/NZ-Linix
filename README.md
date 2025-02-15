@@ -25,7 +25,7 @@ languages = {"I know well":
     "Java",
     "Go",
     "Rust",
-    "C/C++"
+    "C/C++/C#"
 ]
 }
 ```
